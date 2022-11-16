@@ -8,6 +8,7 @@ $apps = @(
     @{name = "Microsoft.WindowsTerminal" }
     @{name = "Microsoft.VisualStudioCode" }
     @{name = "GitHub.GitHubDesktop" }
+    @{name = "RedHat.Podman" }
     @{name = "7zip.7zip" }
     @{name = "ShareX.ShareX" }
     @{name = "Notepad++.Notepad++" }
